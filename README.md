@@ -1,74 +1,91 @@
- ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME">
 
-I’m **Andrew Ibrahime**, a Computer Science graduate and **Backend Developer** from **Minya, Egypt** 🇪🇬.  
-I enjoy building **high-performance backend systems**, working with **algorithms**, and designing **secure APIs**.  
-Always open to collaboration, backend challenges, and real-world systems.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Andrew+Ibrahime;Backend+Developer+%7C+C%2B%2B+%26+.NET;&center=true&size=30">
+  </a>
+</h1>
 
-Feel free to connect with me 👇
+<h5 align="center">
+  <code><a href="https://linkedin.com" title="LinkedIn"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="mailto:ebrahemandroe83@gmail.com" title="Email"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"> Email</a></code>
+</h5>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Andrew%20Ibrahime-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail Badge](https://img.shields.io/badge/-ebrahemandroe83@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ebrahemandroe83@gmail.com)
-
----
-
-## ⚡ Technologies & Skills
-
-### 🧠 Programming & Core Concepts
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![OOP](https://img.shields.io/badge/-OOP-black?style=flat-square)
-![Algorithms](https://img.shields.io/badge/-Algorithms-black?style=flat-square)
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-black?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-black?style=flat-square)
-
----
-
-### ⚙️ Backend & Architecture
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet)
-![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=flat-square)
-![Web API](https://img.shields.io/badge/-Web%20API-512BD4?style=flat-square)
-![Entity Framework](https://img.shields.io/badge/-EF%20Core-512BD4?style=flat-square)
-![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=flat-square)
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square)
-![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-black?style=flat-square)
-![SOLID](https://img.shields.io/badge/-SOLID-black?style=flat-square)
-
----
-
-### 🗄️ Database & Tools
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
----
-
-## 🚀 Highlighted Projects
-- 🎓 **Automatic University Timetable Scheduling System**  
-  `C++ Scheduling Engine + .NET Web API`  
-  🔗 https://next-advisory.vercel.app
-
-- 🏋️ **Gym Management System**  
-  `WPF + ASP.NET Core API` — Used by real users
-
-- 🏛 **Multi-Organization Church Management System**  
-  `JWT-secured backend` — Under Development
-
----
-
-## 📊 GitHub Analytics
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Androibrahim&show_icons=true&count_private=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" height="160"/>
+  Hi, I'm <b>Andrew Ibrahime</b>, a <b>Backend Developer</b> from Egypt 🇪🇬
+  <br><br>
+  🎓 Computer Science Graduate
+  <br>
+  ⚙️ Backend-focused with strong Algorithms & System Design background
+  <br>
+  🔐 Experienced in secure APIs, JWT, and database-driven systems
+  <br>
+  🚀 Passionate about performance, scalability, and real-world backend problems
+</p>
+
+<hr>
+
+<h2 align="center">🔥 Languages • Frameworks • Tools 🔥</h2>
+
+<p align="center">
+  <code><img title="C++" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img title="C#" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+  <code><img title=".NET Core" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></code>
+  <code><img title="ASP.NET Core" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></code>
+  <code><img title="SQL Server" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
+  <code><img title="Entity Framework" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/entityframeworkcore/entityframeworkcore-original.svg"></code>
+  <code><img title="Git" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+  <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img title="CSS3" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img title="Bootstrap" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent"/>
+  Algorithms • Data Structures • OOP • SOLID • Design Patterns • JWT • LINQ • EF Core
+</p>
+
+<hr>
+
+<h2 align="center">🚀 Highlighted Projects</h2>
+
+<p align="center">
+  🎓 <b>Automatic University Timetable Scheduling System</b><br>
+  C++ Scheduling Engine + .NET Web API<br>
+  <a href="https://next-advisory.vercel.app">Live Demo</a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME"/>
+  🏋️ <b>Gym Management System</b><br>
+  WPF + ASP.NET Core Web API (Used by real users)
+</p>
+
+<p align="center">
+  🏛 <b>Multi-Organization Church Management System</b><br>
+  Secure JWT-based backend (Under Development)
+</p>
+
+<hr>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<p align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true" />
+</p>
+
+<hr>
+
+<h2 align="center">👨‍💻 Featured Repositories</h2>
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Algorithms&theme=react&hide_border=true" />
+  </a>
 </p>
