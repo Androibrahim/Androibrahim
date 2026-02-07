@@ -56,38 +56,35 @@ GPA: 3.4 / 4.0 • Relevant Coursework: Algorithms, Data Structures, Database Ma
 -->
 
 
-<div align="center">
+<div align="left">
 
 - 🟢 **NTI: HCIA Cloud Computing** | **70h (Oct 2025 – Dec 2025)**
-- *• Networking*  *• Operating Systems*  *• Virtualization* *• Huawei FusionSphere*
+- Networking  • Operating Systems • Virtualization • Huawei FusionSphere
   
 <br>
 
 -  🔵**DEPI: Full Stack .NET Developer** | **Nov 2024 – May 2025**  
-- *• C#*  *• OOP*  *• LINQ*  *• EF Core*  *• SQL Server*  *• .NET Core Web API*  *• ASP.NET Core MVC*  *• Git & GitHub*
+- C# • OOP • LINQ • EF Core • SQL Server • .NET Core Web API • ASP.NET Core MVC • Git & GitHub
   
 <br>
 
 -  🟠**ITI: Web Fundamentals** | **66h (Aug 2024)**
-- *• HTML5* *• CSS3* *• JavaScript* *• Bootstrap* *• Firebase Integration*
+- HTML5 • CSS3 • JavaScript • Bootstrap • Firebase Integration
   
 <br>
 
 -  🟣**ITI: .NET Full Stack** | **72h (July 2024)**  
-- *• C#*  *• OOP*  *• SQL Server*  *• ASP.NET MVC*  
+- C# • OOP • SQL Server • ASP.NET MVC  
 
 </div>
 
 
 
-
-
-
 <hr>
 
-<h2 align="center">🔥 Technologies & Skills</h2>
+<h2 align="left">🔥 Technologies & Skills</h2>
 
-<p align="center">
+<p align="left">
   <code><img title="C++" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
   <code><img title="C#" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
   <code><img title=".NET Core" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></code>
@@ -104,7 +101,7 @@ GPA: 3.4 / 4.0 • Relevant Coursework: Algorithms, Data Structures, Database Ma
   <code><img title="CSS3" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 </p>
 
-<p align="center">
+<p align="left">
 Algorithms • Data Structures • OOP • Secure APIs • Backend Architecture
 </p>
 
