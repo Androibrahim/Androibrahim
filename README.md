@@ -117,6 +117,11 @@ GPA: 3.4 / 4.0 • Relevant Coursework: Algorithms, Data Structures, Database Ma
 <h2 align="left">🚀 Selected Projects</h2>
 
 <p align="left">
+🏛 <b>Church Management System</b><br>
+Secure JWT-based multi-tenant backend (Under Development)
+</p>
+
+<p align="left">
 🎓 <b>Automatic University Timetable Scheduling System</b><br>
 C++ Scheduling Engine + .NET Web API •  
 <a href="https://next-advisory.vercel.app">Live Demo</a>
@@ -125,11 +130,6 @@ C++ Scheduling Engine + .NET Web API •
 <p align="left">
 🏋️ <b>Gym Management System</b><br>
 WPF + ASP.NET Core Web API (Used by real users)
-</p>
-
-<p align="left">
-🏛 <b>Church Management System</b><br>
-Secure JWT-based multi-tenant backend (Under Development)
 </p>
 
 <p align="left">
