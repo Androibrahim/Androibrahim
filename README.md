@@ -1,157 +1,74 @@
-# 👋 Andrew Ibrahime
+ <h1 align="center">Hi 👋, I'm Andrew Ibrahime</h1>
+<h3 align="center">Backend Developer | C++ • .NET • SQL</h3>
 
-**Backend Developer**  
-📍 Minya, Egypt  
-📧 [ebrahemandroe83@gmail.com](mailto:ebraehemandroe83@gmail.com)  
-📞 +20 114 917 7515  
-🔗 [LinkedIn](https://linkedin.com)
-
----
-
-## 🚀 About Me
-
-Computer Science graduate specialized in **Backend Development** with strong experience in **C++**, **.NET**, and **SQL**.  
-I focus on building **algorithm-driven systems**, **scalable APIs**, and **well-structured databases**.
-
-I enjoy solving complex problems, designing clean architectures, and working on systems that require performance, security, and correctness.
+<p align="center">
+📍 Minya, Egypt • 
+📧 <a href="mailto:ebrahemandroe83@gmail.com">Email</a> • 
+🔗 <a href="https://linkedin.com">LinkedIn</a>
+</p>
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Computer Science**  
-Nahda University — *(2021 – 2025)*  
-- **GPA:** 3.4 / 4.0 *(Very Good)*  
-- **Relevant Coursework:**  
-  Algorithms, Data Structures, Database Management, OOP, Web Development
+## 💡 About Me
+- 🎓 Computer Science Graduate
+- 🧠 Backend-focused with strong **Algorithms & Data Structures**
+- ⚙️ Building **secure, scalable APIs**
+- 🔐 Interested in **performance & system design**
 
 ---
 
-## 📚 Scholarships & Training
+## 🛠 Tech Stack
+**Languages**
+- C++, C#
 
-### NTI | HCIA – Introduction to Cloud Computing  
-**70 Hours** | Oct 2025 – Dec 2025  
-- Networking fundamentals  
-- Operating Systems  
-- Virtualization  
-- Huawei FusionSphere
-
-### DEPI | Full Stack .NET Web Developer  
-**Nov 2024 – May 2025**  
-- C#, OOP, LINQ  
-- Entity Framework Core  
-- SQL Server  
-- ASP.NET Core MVC & Web API  
-- Git & GitHub
-
-### ITI | Web Fundamentals  
-**66 Hours** | Aug 2024  
-- HTML5, CSS3, JavaScript  
-- Bootstrap  
-- Firebase Integration
-
-### ITI | .NET Full Stack  
-**72 Hours** | Jul 2024  
-- C# & Object-Oriented Programming  
-- SQL Server  
-- ASP.NET MVC
-
----
-
-## 🛠️ Technical Skills
-
-### Programming & Core Concepts
-- C++ (STL)
-- C#
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Problem Solving
-- SOLID Principles
-- Design Patterns
-
-### Backend & Databases
+**Backend**
 - ASP.NET Core Web API
-- ASP.NET Core MVC
+- ASP.NET MVC
 - Entity Framework Core
-- LINQ
 - JWT Authentication
-- Microsoft SQL Server
-- Repository & Service Patterns
 
-### Frontend & Tools
-- HTML5, CSS3
-- Bootstrap
-- Git & GitHub
+**Database**
+- SQL Server
 
----
-
-## 💼 Projects
-
-### 🏛️ Multi-Organization Church Service Management System  
-**ASP.NET Core Web API | JWT** — *Under Development*
-
-- Backend system for managing churches as independent organizations
-- Each organization has its own users, roles, and permissions
-- Secure authentication & authorization using JWT
-- Designed for scalability and flexible role management
+**Concepts**
+- OOP • SOLID • Design Patterns  
+- Algorithms • Problem Solving
 
 ---
 
-### 🏋️ Gym Management System  
-**WPF + ASP.NET Core Web API** — *Dec 2025*  
-✅ **Currently used by real users**
+## 🚀 Featured Projects
 
-- Desktop application with modern UI
-- Subscription management, attendance tracking, renewals, and payments
-- Card scanning integration
-- Real-time API communication
-
----
-
-### 🎓 Automatic University Timetable Scheduling System  
-**C++ + .NET Web API | Graduation Project** — *Full Deployment: June 2025*  
+### 🎓 Automatic University Timetable System
+**C++ Scheduling Engine + .NET API**
+- Conflict-free timetable generation
+- Complex constraints (professors, halls, TAs)
+- Real deployment  
 🔗 https://next-advisory.vercel.app
 
-- Led backend development and system architecture
-- Implemented a **C++ scheduling engine** to generate optimized, conflict-free timetables
-- Integrated C++ with .NET Web API using **Boost.Beast HTTP server (port 8080)**
-- Designed and managed SQL Server schema using EF Core
-- Supported complex constraints:
-  - Professors’ availability
-  - Teaching assistants
-  - Lecture halls
-  - Special student cases
+---
+
+### 🏋️ Gym Management System
+**WPF + ASP.NET Core API**
+- Subscriptions, attendance, payments
+- Used by real users
 
 ---
 
-### ✅ To-Do Application  
-**ASP.NET Core MVC + EF Core** — *Aug 2024*  
-🔗 https://ostodo.runasp.net
-
-- Full CRUD functionality
-- Responsive Bootstrap dashboard
-- OS-inspired task scheduling
-- Starvation prevention mechanism
+### 🏛 Church Management System
+**Multi-Organization Backend**
+- Role-based access control
+- JWT-secured APIs  
+🚧 Under Development
 
 ---
 
-### 📝 Notepad Desktop Application  
-**C++ / Qt Creator** — *Mar 2024*
+## 📊 GitHub Analytics
 
-- Desktop text editor with:
-  - Open, save, copy, paste, search
-- Clean, responsive UI
-- Event-driven file handling
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" height="165"/>
+</p>
 
----
-
-## 📌 Interests
-
-- Backend Architecture
-- High-Performance Systems
-- Algorithms & Optimization
-- API Security & Scalability
-
----
-
-⭐ *Feel free to explore my repositories and connect with me on LinkedIn.*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent"/>
+</p>
