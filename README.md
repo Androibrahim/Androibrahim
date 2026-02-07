@@ -72,15 +72,3 @@
   <img width="600" src="https://github-stats-alpha.vercel.app/api?username=Androibrahim&hide_border=true">
 </p>
 
-<hr>
-
-<h2 align="center">📌 Featured Repositories</h2>
-
-<p align="center">
-  <a href="https://github.com/Androibrahim/AutomaticUniversityTimetableSchedulingSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Androibrahim&repo=AutomaticUniversityTimetableSchedulingSystem&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/Androibrahim/GymManagementSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Androibrahim&repo=GymManagementSystem&theme=react&hide_border=true" />
-  </a>
-</p>
