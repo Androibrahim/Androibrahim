@@ -1,74 +1,74 @@
- <h1 align="center">Hi 👋, I'm Andrew Ibrahime</h1>
-<h3 align="center">Backend Developer | C++ • .NET • SQL</h3>
+ ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-<p align="center">
-📍 Minya, Egypt • 
-📧 <a href="mailto:ebrahemandroe83@gmail.com">Email</a> • 
-🔗 <a href="https://linkedin.com">LinkedIn</a>
-</p>
+I’m **Andrew Ibrahime**, a Computer Science graduate and **Backend Developer** from **Minya, Egypt** 🇪🇬.  
+I enjoy building **high-performance backend systems**, working with **algorithms**, and designing **secure APIs**.  
+Always open to collaboration, backend challenges, and real-world systems.
 
----
+Feel free to connect with me 👇
 
-## 💡 About Me
-- 🎓 Computer Science Graduate
-- 🧠 Backend-focused with strong **Algorithms & Data Structures**
-- ⚙️ Building **secure, scalable APIs**
-- 🔐 Interested in **performance & system design**
+[![Linkedin Badge](https://img.shields.io/badge/-Andrew%20Ibrahime-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail Badge](https://img.shields.io/badge/-ebrahemandroe83@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ebrahemandroe83@gmail.com)
 
 ---
 
-## 🛠 Tech Stack
-**Languages**
-- C++, C#
+## ⚡ Technologies & Skills
 
-**Backend**
-- ASP.NET Core Web API
-- ASP.NET MVC
-- Entity Framework Core
-- JWT Authentication
-
-**Database**
-- SQL Server
-
-**Concepts**
-- OOP • SOLID • Design Patterns  
-- Algorithms • Problem Solving
+### 🧠 Programming & Core Concepts
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+![OOP](https://img.shields.io/badge/-OOP-black?style=flat-square)
+![Algorithms](https://img.shields.io/badge/-Algorithms-black?style=flat-square)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-black?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-black?style=flat-square)
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎓 Automatic University Timetable System
-**C++ Scheduling Engine + .NET API**
-- Conflict-free timetable generation
-- Complex constraints (professors, halls, TAs)
-- Real deployment  
-🔗 https://next-advisory.vercel.app
-
----
-
-### 🏋️ Gym Management System
-**WPF + ASP.NET Core API**
-- Subscriptions, attendance, payments
-- Used by real users
+### ⚙️ Backend & Architecture
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet)
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=flat-square)
+![Web API](https://img.shields.io/badge/-Web%20API-512BD4?style=flat-square)
+![Entity Framework](https://img.shields.io/badge/-EF%20Core-512BD4?style=flat-square)
+![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=flat-square)
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-black?style=flat-square)
+![SOLID](https://img.shields.io/badge/-SOLID-black?style=flat-square)
 
 ---
 
-### 🏛 Church Management System
-**Multi-Organization Backend**
-- Role-based access control
-- JWT-secured APIs  
-🚧 Under Development
+### 🗄️ Database & Tools
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+---
+
+## 🚀 Highlighted Projects
+- 🎓 **Automatic University Timetable Scheduling System**  
+  `C++ Scheduling Engine + .NET Web API`  
+  🔗 https://next-advisory.vercel.app
+
+- 🏋️ **Gym Management System**  
+  `WPF + ASP.NET Core API` — Used by real users
+
+- 🏛 **Multi-Organization Church Management System**  
+  `JWT-secured backend` — Under Development
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Androibrahim&show_icons=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Androibrahim&show_icons=true&count_private=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent"/>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME"/>
 </p>
