@@ -84,51 +84,59 @@ GPA: 3.4 / 4.0 • Relevant Coursework: Algorithms, Data Structures, Database Ma
 
 <h2 align="left">🔥 Technologies & Skills</h2>
 
+<!-- Logos -->
 <p align="left">
-  <code><img title="C++" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img title="C#" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-  <code><img title=".NET Core" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></code>
-  <code><img title="ASP.NET Core" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></code>
-  <code><img title="SQL Server" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
-  <code><img title="Entity Framework Core" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/entityframeworkcore/entityframeworkcore-original.svg"></code>
-  <code><img title="LINQ" height="25" src="https://img.shields.io/badge/-LINQ-black?style=flat-square"></code>
-  <code><img title="JWT" height="25" src="https://img.shields.io/badge/-JWT-black?style=flat-square"></code>
-  <code><img title="SOLID" height="25" src="https://img.shields.io/badge/-SOLID-black?style=flat-square"></code>
-  <code><img title="Design Patterns" height="25" src="https://img.shields.io/badge/-Design%20Patterns-black?style=flat-square"></code>
-  <code><img title="Git" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-  <code><img title="Bootstrap" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
-  <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img title="CSS3" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <img title="C++" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img title="C#" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img title=".NET Core" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  <img title="ASP.NET Core" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img title="SQL Server" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img title="Entity Framework Core" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/entityframeworkcore/entityframeworkcore-original.svg">
+  <img title="LINQ" height="30" src="https://img.shields.io/badge/-LINQ-blue?style=flat-squarelogo=dot-net">
+  <img title="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img title="Bootstrap" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img title="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img title="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
 
+<!-- Badges for concepts -->
 <p align="left">
-Algorithms • Data Structures • OOP • Secure APIs • Backend Architecture
+  <img alt="Algorithms" height="25" src="https://img.shields.io/badge/Algorithms-blue?style=flat-square&logo=algorithm&logoColor=white">
+  <img alt="Data Structures" height="25" src="https://img.shields.io/badge/Data%20Structures-orange?style=flat-square">
+  <img alt="OOP" height="25" src="https://img.shields.io/badge/OOP-purple?style=flat-square">
+ <img alt="OOP" height="25" src="https://img.shields.io/badge/ProblemSolving-orange?style=flat-square">
+  <img alt="Secure APIs" height="25" src="https://img.shields.io/badge/Secure%20APIs-red?style=flat-square">
+  <img alt="Backend Architecture" height="25" src="https://img.shields.io/badge/Backend%20Architecture-green?style=flat-square">
+  <img alt="SOLID" height="25" src="https://img.shields.io/badge/SOLID-yellow?style=flat-square">
+  <img alt="Design Patterns" height="25" src="https://img.shields.io/badge/Design%20Patterns-pink?style=flat-square">
+  <img alt="JWT" height="25" src="https://img.shields.io/badge/JWT-gray?style=flat-square">
 </p>
 
 <hr>
 
-<h2 align="center">🚀 Selected Projects</h2>
+<h2 align="left">🚀 Selected Projects</h2>
 
-<p align="center">
+<p align="left">
 🎓 <b>Automatic University Timetable Scheduling System</b><br>
 C++ Scheduling Engine + .NET Web API •  
 <a href="https://next-advisory.vercel.app">Live Demo</a>
 </p>
 
-<p align="center">
+<p align="left">
 🏋️ <b>Gym Management System</b><br>
 WPF + ASP.NET Core Web API (Used by real users)
 </p>
 
-<p align="center">
+<p align="left">
 🏛 <b>Church Management System</b><br>
 Secure JWT-based multi-tenant backend (Under Development)
 </p>
 
 <hr>
-
+ 
 <h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
 <img width="600" src="https://github-stats-alpha.vercel.app/api?username=Androibrahim&hide_border=true">
-</p>
+</p> 
+
+
