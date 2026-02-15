@@ -1,6 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Androibrahim.Androibrahim">
+<br/>
+<a href="https://www.codewars.com/users/DROO%20;"> <img align="right" src="https://www.codewars.com/users/DROO%20;/badges/micro" width="180px"> <a/>
 
-# Hi, I'm Andrew Ibrahime
+# Hi, I'm Andrew Ibrahime           
 **Backend Developer | C++ & .NET**
 
 ---
@@ -10,7 +12,6 @@ build scalable and secure backend systems with **C++**, **.NET**, and **SQL**, f
 enjoy solving complex problems and creating **efficient, maintainable backend architectures**.
 
 ---
-
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andro-ebrahem-0950a52b4/) 
